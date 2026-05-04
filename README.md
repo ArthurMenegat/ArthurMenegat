@@ -1,4 +1,21 @@
-## Hi there 👋
+# Arthur Henrique Menegat
+Estudante de Engenharia da Computação na Universidade do Oeste de Santa Catarina (UNOESC).
+
+Idiomas: Português (nativo), Inglês (intermediário), Espanhol (intermediário).
+
+E-mail para contato: arthurmenegat64@gmail.com
+#
+Interesses:
+  * Eletrônica Digital
+  * Programação baixo nível
+  * Programação competitiva
+  * Lógica computacional
+#
+Linguagens de Programação:
+  * C
+  * C++
+  * Java
+  * Verilog
 
 <!--
 **ArthurMenegat/ArthurMenegat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
