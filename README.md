@@ -1,7 +1,7 @@
 # Arthur Henrique Menegat
 Estudante de Engenharia da Computação na Universidade do Oeste de Santa Catarina (UNOESC).
 
-Idiomas: Português (nativo), Inglês (intermediário), Espanhol (intermediário).
+Idiomas: Português (nativo), Inglês (intermediário).
 
 E-mail para contato: arthurmenegat64@gmail.com
 #
