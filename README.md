@@ -11,12 +11,19 @@ Interesses:
   * Programação competitiva
   * Lógica computacional
 #
-Linguagens de Programação e Tecnologias:
-  * C
-  * C++
-  * Java
-  * Verilog
+Linguagens de Programação e Tecnologias: 
+  * C                      
+  * C++                    
+  * Java                   
+  * Verilog                
   * SQL
+#
+Ferramentas:
+ * MPLAB
+ * Quartus Prime
+ * MATLAB
+ * STM32 CubeIDE
+ * Proteus
 
 <!--
 **ArthurMenegat/ArthurMenegat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
