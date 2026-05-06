@@ -14,25 +14,16 @@ Contact email: arthurmenegat64@gmail.com
 # Programming Languages ​​and Technologies:
 
 * C
-
 * C++
-
 * Java
-
 * Verilog
-
 * SQL
 
 # Tools:
 
 * MPLAB
-
 * Quartus Prime
-
 * MATLAB
-
 * STM32 CubeIDE
-
 * Proteus
-
 * EasyEDA
