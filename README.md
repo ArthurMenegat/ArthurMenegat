@@ -18,6 +18,7 @@ Contact email: arthurmenegat64@gmail.com
 * Java
 * Verilog
 * SQL
+* Python
 
 # Tools:
 
